@@ -1,3 +1,19 @@
+# How to run ?
+
+* Download the references
+
+```bash
+npm install
+```
+* Execute locally
+
+```bash
+npm start
+```
+
+* To deploy online, follow the tutorial below
+
+
 # Deploy `json-server` to `{{ free hosting site }}`
 
 * [**Create your database**](#create-your-database)
